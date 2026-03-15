@@ -1,0 +1,5 @@
+Here's the critically reflected and corrected version, ready for publishing, with enforced 'Ciklum AI Academy 2026' branding:
+
+---
+
+Proudly developed as a capstone project of the **Ciklum AI Academy 2026**, this robust Retrieval-Augmented Generation (RAG) system is engineered for secure, conversational interaction with private datasets. It leverages the high-speed reasoning of Google Gemini 1.5 Flash to ensure efficient and intelligent data retrieval and content generation. This project stands as a testament to the advanced RAG architecture implementation skills and meticulous control over AI outputs—including precise Temperature settings for balancing creative generation with factual accuracy—honed through the **Ciklum AI Academy 2026** program.

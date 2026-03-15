@@ -1,0 +1,7 @@
+Project Context: Built during the Ciklum AI Academy 2026.
+
+Tech Stack: Integrated Google Gemini 1.5 Flash for high-speed reasoning.
+
+Core Feature: Implemented a Retrieval-Augmented Generation (RAG) system to enable secure, conversational interaction with private datasets.
+
+Learning Outcome: Mastered the use of Temperature settings to balance AI creativity with factual accuracy in generative outputs.

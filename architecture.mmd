@@ -1,0 +1,23 @@
+graph TD
+    subgraph Data_Source
+        A[achievements.txt]
+    end
+
+    subgraph Agentic_System
+        B[Draft Summary Generation]
+        C[Multi-Iteration Reflection Loop]
+        D[Refined Summary]
+        E[LinkedIn Post Generation]
+    end
+
+    subgraph Tool_Calling_Outputs
+        F[Agent_Final_Report.txt]
+        G[Agent_LinkedIn_Post.txt]
+        H[Final_Summary.txt]
+    end
+
+    A --> B --> C --> D --> E
+    D --> F
+    E --> G
+    D --> H
+    E --> H

@@ -1,0 +1,11 @@
+Here's a concise and engaging LinkedIn post:
+
+---
+
+Thrilled to share my capstone project from the **Ciklum AI Academy 2026**!
+
+I've developed a robust Retrieval-Augmented Generation (RAG) system, engineered for secure, conversational interaction with private datasets. Leveraging Google Gemini 1.5 Flash for high-speed reasoning, it ensures efficient and intelligent data retrieval and content generation.
+
+This project showcases advanced RAG architecture implementation and meticulous control over AI outputs—including precise Temperature settings for balancing creativity with accuracy—skills honed through the Academy.
+
+#AI #RAG #GenerativeAI #MachineLearning #CiklumAI #Ciklum
